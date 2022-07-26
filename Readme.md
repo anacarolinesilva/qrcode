@@ -1,2 +1,2 @@
 ## 🌐Site
-  - [Gerador de senha](https://effortless-twilight-b51dfb.netlify.app/)
+  - [Gerador de QRCode](https://effortless-twilight-b51dfb.netlify.app/)
